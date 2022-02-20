@@ -1,0 +1,7 @@
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/core"
+tap "homebrew/services"
+brew "rclone"
+brew "gping"
+cask "rectangle"
