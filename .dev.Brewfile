@@ -1,0 +1,7 @@
+brew "ansible"
+brew "gnupg"
+brew "go"
+cask "docker"
+cask "postman"
+cask "sourcetree"
+cask "visual-studio-code"
