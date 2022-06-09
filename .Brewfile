@@ -1,7 +1,17 @@
+## Taps
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/core"
 tap "homebrew/services"
+## General
 brew "rclone"
 brew "gping"
 cask "rectangle"
+## Dev
+brew "ansible"
+brew "gnupg"
+brew "go"
+cask "docker"
+cask "postman"
+cask "sourcetree"
+cask "visual-studio-code"
