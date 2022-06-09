@@ -6,11 +6,13 @@ tap "homebrew/services"
 ## General
 brew "rclone"
 brew "gping"
+brew "qrencode"
 cask "rectangle"
 ## Dev
 brew "ansible"
 brew "gnupg"
 brew "go"
+brew "hey"
 cask "docker"
 cask "postman"
 cask "sourcetree"
